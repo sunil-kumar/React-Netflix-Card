@@ -1,14 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-
-# This Example(Netflix Card) covers following topics of React.
+![Image](https://github.com/user-attachments/assets/67abb2a6-da12-4fe5-9819-fabee4d2cb66)
+# This Example(Netflix Card) covers following topics of React(React + Vite).
 1. Types of way to crate React component(Class based and Functional Components).
 2. How to add dynamic value in JSX.
 3. React Conditional rendering in JSX.
