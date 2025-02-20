@@ -6,7 +6,7 @@ import "./components/Netflix.css"
 function App() {
   return (
     <section className="container">
-      <h1 className="card-heading">List of Best Netflix series.</h1>
+      <h1 className="card-heading">List of Best Netflix series</h1>
       <NetflixSeries></NetflixSeries>
     </section>
   );

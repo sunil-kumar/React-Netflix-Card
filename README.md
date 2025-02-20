@@ -23,5 +23,7 @@ Currently, two official plugins are available:
 7. React Destructuring Props in JSX:0
 - Destructuring props in JSX" is a technique used in React to simplify the process of extracting values from props objects. By using destructuring, you can directly extract the properties you need from the props object, making your code cleaner and more readable.
 8. Add CSS Styling in React: Class vs ClassName Explained in React JS:
+9. REact Fragments.
+10. How to use/Import Json file and render data in React.
 9. Inline CSS Styling in React.js:
 <p style={{ margin: "1.2rem 0" }}>Summary: {props.curElem.description}</p>  
